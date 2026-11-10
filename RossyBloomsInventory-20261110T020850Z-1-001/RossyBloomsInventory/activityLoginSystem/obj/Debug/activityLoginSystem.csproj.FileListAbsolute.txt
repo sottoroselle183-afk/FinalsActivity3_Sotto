@@ -1,0 +1,12 @@
+C:\Users\cholo\source\repos\activityLoginSystem\activityLoginSystem\bin\Debug\activityLoginSystem.exe.config
+C:\Users\cholo\source\repos\activityLoginSystem\activityLoginSystem\bin\Debug\activityLoginSystem.exe
+C:\Users\cholo\source\repos\activityLoginSystem\activityLoginSystem\bin\Debug\activityLoginSystem.pdb
+C:\Users\cholo\source\repos\activityLoginSystem\activityLoginSystem\obj\Debug\activityLoginSystem.csproj.AssemblyReference.cache
+C:\Users\cholo\source\repos\activityLoginSystem\activityLoginSystem\obj\Debug\activityLoginSystem.RegisterForm.resources
+C:\Users\cholo\source\repos\activityLoginSystem\activityLoginSystem\obj\Debug\activityLoginSystem.SignInForm.resources
+C:\Users\cholo\source\repos\activityLoginSystem\activityLoginSystem\obj\Debug\activityLoginSystem.Properties.Resources.resources
+C:\Users\cholo\source\repos\activityLoginSystem\activityLoginSystem\obj\Debug\activityLoginSystem.csproj.GenerateResource.cache
+C:\Users\cholo\source\repos\activityLoginSystem\activityLoginSystem\obj\Debug\activityLoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\cholo\source\repos\activityLoginSystem\activityLoginSystem\obj\Debug\activityLoginSystem.exe
+C:\Users\cholo\source\repos\activityLoginSystem\activityLoginSystem\obj\Debug\activityLoginSystem.pdb
+C:\Users\cholo\source\repos\activityLoginSystem\activityLoginSystem\obj\Debug\activityLoginSystem.DashboardForm.resources

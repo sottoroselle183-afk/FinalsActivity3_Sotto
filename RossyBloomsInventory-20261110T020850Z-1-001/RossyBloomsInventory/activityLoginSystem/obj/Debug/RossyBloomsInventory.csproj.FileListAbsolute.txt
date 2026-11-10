@@ -1,0 +1,12 @@
+C:\Users\USER\Downloads\RossyBloomsInventory-20261110T020850Z-1-001\RossyBloomsInventory\activityLoginSystem\bin\Debug\activityLoginSystem.exe.config
+C:\Users\USER\Downloads\RossyBloomsInventory-20261110T020850Z-1-001\RossyBloomsInventory\activityLoginSystem\bin\Debug\activityLoginSystem.exe
+C:\Users\USER\Downloads\RossyBloomsInventory-20261110T020850Z-1-001\RossyBloomsInventory\activityLoginSystem\bin\Debug\activityLoginSystem.pdb
+C:\Users\USER\Downloads\RossyBloomsInventory-20261110T020850Z-1-001\RossyBloomsInventory\activityLoginSystem\obj\Debug\RossyBloomsInventory.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\RossyBloomsInventory-20261110T020850Z-1-001\RossyBloomsInventory\activityLoginSystem\obj\Debug\activityLoginSystem.DashboardForm.resources
+C:\Users\USER\Downloads\RossyBloomsInventory-20261110T020850Z-1-001\RossyBloomsInventory\activityLoginSystem\obj\Debug\activityLoginSystem.RegisterForm.resources
+C:\Users\USER\Downloads\RossyBloomsInventory-20261110T020850Z-1-001\RossyBloomsInventory\activityLoginSystem\obj\Debug\activityLoginSystem.SignInForm.resources
+C:\Users\USER\Downloads\RossyBloomsInventory-20261110T020850Z-1-001\RossyBloomsInventory\activityLoginSystem\obj\Debug\activityLoginSystem.Properties.Resources.resources
+C:\Users\USER\Downloads\RossyBloomsInventory-20261110T020850Z-1-001\RossyBloomsInventory\activityLoginSystem\obj\Debug\RossyBloomsInventory.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\RossyBloomsInventory-20261110T020850Z-1-001\RossyBloomsInventory\activityLoginSystem\obj\Debug\RossyBloomsInventory.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\RossyBloomsInventory-20261110T020850Z-1-001\RossyBloomsInventory\activityLoginSystem\obj\Debug\activityLoginSystem.exe
+C:\Users\USER\Downloads\RossyBloomsInventory-20261110T020850Z-1-001\RossyBloomsInventory\activityLoginSystem\obj\Debug\activityLoginSystem.pdb
